@@ -1,0 +1,4365 @@
+{
+ "url": "http://localhost:3211/",
+ "at": "2026-10-21T05:41:52.850Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    0.31,
+    0.59,
+    0.98,
+    0.66,
+    0.61,
+    0.21,
+    0.2,
+    0.63,
+    0.59,
+    0.66
+   ],
+   "motion": {
+    "elements": 37,
+    "css": 36,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 9332,
+     "screens": 10.4,
+     "words": 721,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 15,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmorning-mu",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fglass-shad",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-win",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fevening-ba",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbig-hall.1",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fflat-white",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-lat"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "chars": 33,
+     "lines": 3,
+     "size": 123.8,
+     "vw": 8.6,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.02,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.39,
+     "top": 236,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "lines": 3,
+     "size": 123.8,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "A little more light in every cup.",
+      "words": 7,
+      "chars": 33,
+      "lines": 3,
+      "size": 123.8,
+      "vw": 8.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 236,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe is one long hall built around one long window. We pour coffee, keep 67 chairs comfortable, and let the light rearrange the room a little every hour.",
+      "words": 29,
+      "chars": 157,
+      "lines": 4,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.7,
+      "top": 1125,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Four hours, four different rooms.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 1710,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before the first chair",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 2405,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The west windows wake up",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 2405,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "High noon, short shadows",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 2469,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lamps over every table",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 2469,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A big room with nowhere to hide from the sun.",
+      "words": 10,
+      "chars": 45,
+      "lines": 3,
+      "size": 79.2,
+      "vw": 5.5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 2906,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "67",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.11,
+      "top": 3310,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "6",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.11,
+      "top": 3310,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.11,
+      "top": 3310,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "A short menu, written by the clock.",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 3769,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The House Cup",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 4837,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Golden Hour",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.14,
+      "top": 4933,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Night Shift",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 5601,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Half in the sun, half in the shade.",
+      "words": 8,
+      "chars": 35,
+      "lines": 2,
+      "size": 93.6,
+      "vw": 6.5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 6220,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four steps, none of them rushed.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 6961,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The bean",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 7546,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The shot",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 7546,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The pour",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 7546,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The cup",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.22,
+      "top": 7546,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good coffee Beautiful light Room to stay Light, not glare One more chapter Good coffee Beautiful light Room to stay Light, not glare One more chapter",
+      "words": 26,
+      "chars": 149,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 7782,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Step into the light.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 8116,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 374.4,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 8939,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 24,
+     "maxLines": 4,
+     "over2Lines": 2,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 9
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Instrument Sans",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      26,
+      30,
+      48,
+      66,
+      72,
+      79,
+      86,
+      94,
+      124,
+      158,
+      374
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "Instrument Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.3
+     },
+     "measureChars": 60,
+     "max": {
+      "size": 374.4,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "text": "Sun"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 18,
+     "microLabelShare": 0.055,
+     "microSamples": [
+      "Sun Cafe · coffee in a different light",
+      "01 — The first minute",
+      "02 — The rim",
+      "03 — The handle",
+      "The idea",
+      "01"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.05,
+     "smallText": 23
+    },
+    "eyebrows": [
+     {
+      "text": "Sun Cafe · coffee in a different light",
+      "above": "A little more light in every cup.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 194
+     },
+     {
+      "text": "A day at Sun Cafe",
+      "above": "Four hours, four different rooms.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1668
+     },
+     {
+      "text": "07:15 AM",
+      "above": "Before the first chair",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2377
+     },
+     {
+      "text": "05:45 PM",
+      "above": "The west windows wake up",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2377
+     },
+     {
+      "text": "12:30 PM",
+      "above": "High noon, short shadows",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2441
+     },
+     {
+      "text": "07:45 PM",
+      "above": "Lamps over every table",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2441
+     },
+     {
+      "text": "The space",
+      "above": "A big room with nowhere to hide from the",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2864
+     },
+     {
+      "text": "The coffee",
+      "above": "A short menu, written by the clock.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3727
+     },
+     {
+      "text": "Light, not glare",
+      "above": "Half in the sun, half in the shade.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 6178
+     },
+     {
+      "text": "From bean to cup",
+      "above": "Four steps, none of them rushed.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 6919
+     },
+     {
+      "text": "01",
+      "above": "The bean",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "02",
+      "above": "The shot",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "03",
+      "above": "The pour",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "04",
+      "above": "The cup",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "07 · Visit",
+      "above": "Step into the light.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 8074
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 — The first minute",
+      "size": 10.9,
+      "top": 189
+     },
+     {
+      "text": "02 — The rim",
+      "size": 10.9,
+      "top": 450
+     },
+     {
+      "text": "03 — The handle",
+      "size": 10.9,
+      "top": 486
+     },
+     {
+      "text": "01",
+      "size": 12,
+      "top": 1125
+     },
+     {
+      "text": "02",
+      "size": 12,
+      "top": 1668
+     },
+     {
+      "text": "03",
+      "size": 12,
+      "top": 2864
+     },
+     {
+      "text": "04",
+      "size": 12,
+      "top": 3727
+     },
+     {
+      "text": "05",
+      "size": 12,
+      "top": 6178
+     },
+     {
+      "text": "06",
+      "size": 12,
+      "top": 6919
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 7522
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 7522
+     }
+    ],
+    "color": {
+     "bodyBg": "#0c0a09",
+     "bodyBgHsl": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#000000",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#1a1511",
+       "top": 2751,
+       "hsl": {
+        "h": 27,
+        "s": 0.21,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#13100d",
+       "top": 2751,
+       "hsl": {
+        "h": 30,
+        "s": 0.19,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#0c0a09",
+       "top": 8616,
+       "hsl": {
+        "h": 20,
+        "s": 0.14,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a99b8b",
+       "share": 0.42
+      },
+      {
+       "color": "#f3ecdf",
+       "share": 0.34
+      },
+      {
+       "color": "#f0b44a",
+       "share": 0.11
+      },
+      {
+       "color": "#f3eddf",
+       "share": 0.06
+      },
+      {
+       "color": "#f2ecde",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f0b44a",
+      "hsl": {
+       "h": 38,
+       "s": 0.85,
+       "l": 0.62
+      },
+      "fg": "#0c0a09"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the space",
+      "Explore the space",
+      "See the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 4,
+     "scrims": 0,
+     "gradientSamples": [
+      "header.fixed.inset-x-0 → linear-gradient(oklab(0.146895 0.00270181 0.00313075 / 0.7) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to top, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, oklab(0 0 0 / 0.3) 100%)",
+      "div.absolute.inset-y-0 → linear-gradient(to right in oklab, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to right, oklab(0 0 0 / 0.85) 0%, oklab(0 0 0 / 0.4) 50%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "div.flex.flex-col 1344px",
+      "section#day.border-t.border-line 1440px",
+      "section.relative.isolate 1440px",
+      "dl.mt-10.grid 544px",
+      "div.overflow-hidden.border-y 1440px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 11,
+     "mediaRadius": 4,
+     "textShadow": 12,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.4
+     },
+     {
+      "type": "svg",
+      "ratio": 0.4
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 73,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument sans",
+     "instrument serif"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 9332,
+    "margins": {
+     "left": 48,
+     "right": 48
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 981,
+      "words": 90,
+      "media": 2,
+      "middle": 176,
+      "heading": {
+       "text": "A little more",
+       "size": 124,
+       "tag": "h1"
+      },
+      "left": 48,
+      "right": 96,
+      "textLeft": 48,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 981,
+      "height": 558,
+      "words": 32,
+      "media": 0,
+      "middle": 192,
+      "heading": {
+       "text": "Sun Cafe is one long hall built around one long wi",
+       "size": 66,
+       "tag": "p"
+      },
+      "left": 48,
+      "right": 69,
+      "textLeft": 48,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#day.border-t.border-line",
+      "tag": "section",
+      "top": 1539,
+      "height": 1211,
+      "words": 154,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Four hours,",
+       "size": 86,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 2750,
+      "height": 833,
+      "words": 57,
+      "media": 1,
+      "middle": 88,
+      "heading": {
+       "text": "A big room",
+       "size": 79,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 105,
+      "textLeft": 637,
+      "textRight": 105,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 3583,
+      "height": 2382,
+      "words": 93,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "A short menu,",
+       "size": 86,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 5965,
+      "height": 810,
+      "words": 46,
+      "media": 1,
+      "middle": 692,
+      "heading": {
+       "text": "Half in the sun,",
+       "size": 94,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 16,
+      "textLeft": 48,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 6775,
+      "height": 1007,
+      "words": 88,
+      "media": 4,
+      "middle": 24,
+      "heading": {
+       "text": "Four steps,",
+       "size": 86,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 7898,
+      "height": 718,
+      "words": 39,
+      "media": 1,
+      "middle": 83,
+      "heading": {
+       "text": "Step into",
+       "size": 158,
+       "tag": "h2"
+      },
+      "left": 252,
+      "right": 16,
+      "textLeft": 252,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.border-t",
+      "tag": "footer",
+      "top": 8616,
+      "height": 692,
+      "words": 69,
+      "media": 0,
+      "middle": 316,
+      "heading": {
+       "text": "Sun",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A little more light in every cup.",
+      "size": 124,
+      "top": 236,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 15
+     },
+     {
+      "x": 390,
+      "n": 3
+     },
+     {
+      "x": 808,
+      "n": 3
+     },
+     {
+      "x": 732,
+      "n": 2
+     },
+     {
+      "x": 960,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 25,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 540,
+     "y": 120,
+     "w": 120,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    0.51,
+    0.79,
+    0.75,
+    0.97,
+    0.68,
+    0.27,
+    0.21,
+    0.78,
+    0.67,
+    0.64
+   ],
+   "motion": {
+    "elements": 37,
+    "css": 36,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 10649,
+     "screens": 10.4,
+     "words": 716,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 15,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmorning-mu",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fglass-shad",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-win",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fevening-ba",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbig-hall.1",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fflat-white",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-lat"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "chars": 33,
+     "lines": 3,
+     "size": 66,
+     "vw": 8.6,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.02,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 146,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "lines": 3,
+     "size": 66,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 3.4,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 19,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "A little more light in every cup.",
+      "words": 7,
+      "chars": 33,
+      "lines": 3,
+      "size": 66,
+      "vw": 8.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 146,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe is one long hall built around one long window. We pour coffee, keep 67 chairs comfortable, and let the light rearrange the room a little every hour.",
+      "words": 29,
+      "chars": 157,
+      "lines": 3,
+      "size": 35.3,
+      "vw": 4.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1651,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Four hours, four different rooms.",
+      "words": 5,
+      "chars": 33,
+      "lines": 1,
+      "size": 46.1,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2074,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before the first chair",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 2766,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "High noon, short shadows",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 2766,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The west windows wake up",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 3446,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lamps over every table",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 3446,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A big room with nowhere to hide from the sun.",
+      "words": 10,
+      "chars": 45,
+      "lines": 2,
+      "size": 42.2,
+      "vw": 5.5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 4810,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "67",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 5072,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "6",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.24,
+      "top": 5072,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 5072,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "A short menu, written by the clock.",
+      "words": 7,
+      "chars": 35,
+      "lines": 1,
+      "size": 46.1,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5498,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The House Cup",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 6105,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Golden Hour",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 6201,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Night Shift",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 6660,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Half in the sun, half in the shade.",
+      "words": 8,
+      "chars": 35,
+      "lines": 1,
+      "size": 49.9,
+      "vw": 6.5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 7398,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four steps, none of them rushed.",
+      "words": 6,
+      "chars": 32,
+      "lines": 1,
+      "size": 46.1,
+      "vw": 6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8132,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The bean",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 8623,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The shot",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 8623,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The pour",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 9125,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The cup",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 9125,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good coffee Beautiful light Room to stay Light, not glare One more chapter Good coffee Beautiful light Room to stay Light, not glare One more chapter",
+      "words": 26,
+      "chars": 149,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 9361,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Step into the light.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 9665,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 3.4,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 10179,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 199.7,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 10421,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 26,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 11
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Instrument Sans",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      26,
+      30,
+      35,
+      40,
+      42,
+      46,
+      48,
+      50,
+      66,
+      85,
+      200
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "Instrument Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.3
+     },
+     "measureChars": 68,
+     "max": {
+      "size": 199.7,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "text": "Sun"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 18,
+     "microLabelShare": 0.055,
+     "microSamples": [
+      "Sun Cafe · coffee in a different light",
+      "01 — The first minute",
+      "02 — The rim",
+      "03 — The handle",
+      "The idea",
+      "01"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.05,
+     "smallText": 23
+    },
+    "eyebrows": [
+     {
+      "text": "Sun Cafe · coffee in a different light",
+      "above": "A little more light in every cup.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 104
+     },
+     {
+      "text": "The idea",
+      "above": "Sun Cafe is one long hall built around o",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1585
+     },
+     {
+      "text": "A day at Sun Cafe",
+      "above": "Four hours, four different rooms.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2032
+     },
+     {
+      "text": "07:15 AM",
+      "above": "Before the first chair",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2738
+     },
+     {
+      "text": "12:30 PM",
+      "above": "High noon, short shadows",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2738
+     },
+     {
+      "text": "05:45 PM",
+      "above": "The west windows wake up",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 3418
+     },
+     {
+      "text": "07:45 PM",
+      "above": "Lamps over every table",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 3418
+     },
+     {
+      "text": "The space",
+      "above": "A big room with nowhere to hide from the",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4768
+     },
+     {
+      "text": "The coffee",
+      "above": "A short menu, written by the clock.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5456
+     },
+     {
+      "text": "Photo: Mehrpouya H",
+      "above": "The House Cup",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 6061
+     },
+     {
+      "text": "Light, not glare",
+      "above": "Half in the sun, half in the shade.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 7356
+     },
+     {
+      "text": "From bean to cup",
+      "above": "Four steps, none of them rushed.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 8090
+     },
+     {
+      "text": "01",
+      "above": "The bean",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 8599
+     },
+     {
+      "text": "02",
+      "above": "The shot",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 8599
+     },
+     {
+      "text": "03",
+      "above": "The pour",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 9101
+     },
+     {
+      "text": "04",
+      "above": "The cup",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 9101
+     },
+     {
+      "text": "07 · Visit",
+      "above": "Step into the light.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 9623
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 — The first minute",
+      "size": 10.9,
+      "top": 683
+     },
+     {
+      "text": "02 — The rim",
+      "size": 10.9,
+      "top": 919
+     },
+     {
+      "text": "03 — The handle",
+      "size": 10.9,
+      "top": 952
+     },
+     {
+      "text": "01",
+      "size": 12,
+      "top": 1585
+     },
+     {
+      "text": "02",
+      "size": 12,
+      "top": 2032
+     },
+     {
+      "text": "03",
+      "size": 12,
+      "top": 4768
+     },
+     {
+      "text": "04",
+      "size": 12,
+      "top": 5456
+     },
+     {
+      "text": "05",
+      "size": 12,
+      "top": 7356
+     },
+     {
+      "text": "06",
+      "size": 12,
+      "top": 8090
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 8599
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 8599
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 9101
+     }
+    ],
+    "color": {
+     "bodyBg": "#0c0a09",
+     "bodyBgHsl": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#000000",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#1a1511",
+       "top": 3728,
+       "hsl": {
+        "h": 27,
+        "s": 0.21,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#13100d",
+       "top": 4688,
+       "hsl": {
+        "h": 30,
+        "s": 0.19,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#0c0a09",
+       "top": 10098,
+       "hsl": {
+        "h": 20,
+        "s": 0.14,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a99b8b",
+       "share": 0.42
+      },
+      {
+       "color": "#f3ecdf",
+       "share": 0.33
+      },
+      {
+       "color": "#f0b44a",
+       "share": 0.11
+      },
+      {
+       "color": "#f3eddf",
+       "share": 0.06
+      },
+      {
+       "color": "#f2ecde",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f0b44a",
+      "hsl": {
+       "h": 38,
+       "s": 0.85,
+       "l": 0.62
+      },
+      "fg": "#0c0a09"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the space",
+      "Explore the space",
+      "See the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 4,
+     "scrims": 0,
+     "gradientSamples": [
+      "header.fixed.inset-x-0 → linear-gradient(oklab(0.146895 0.00270181 0.00313075 / 0.7) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to top, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, oklab(0 0 0 / 0.3) 100%)",
+      "div.absolute.inset-y-0 → linear-gradient(to right in oklab, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to right, oklab(0 0 0 / 0.85) 0%, oklab(0 0 0 / 0.4) 50%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "div.flex.flex-col 707px",
+      "section#day.border-t.border-line 768px",
+      "section.relative.isolate 768px",
+      "dl.mt-10.grid 611px",
+      "div.overflow-hidden.border-y 768px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 11,
+     "mediaRadius": 4,
+     "textShadow": 12,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     },
+     {
+      "type": "svg",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 73,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument sans",
+     "instrument serif"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 10649,
+    "margins": {
+     "left": 31,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 1441,
+      "words": 90,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "A little more",
+       "size": 66,
+       "tag": "h1"
+      },
+      "left": 31,
+      "right": 79,
+      "textLeft": 31,
+      "textRight": 79,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 1441,
+      "height": 462,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sun Cafe is one long hall built around one long wi",
+       "size": 35,
+       "tag": "p"
+      },
+      "left": 31,
+      "right": 74,
+      "textLeft": 31,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#day.border-t.border-line",
+      "tag": "section",
+      "top": 1903,
+      "height": 1824,
+      "words": 154,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Four hours,",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 3727,
+      "height": 1585,
+      "words": 57,
+      "media": 1,
+      "middle": 25,
+      "heading": null,
+      "left": 79,
+      "right": 12,
+      "textLeft": 79,
+      "textRight": 12,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 5312,
+      "height": 1712,
+      "words": 93,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "A short menu,",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 7024,
+      "height": 922,
+      "words": 46,
+      "media": 1,
+      "middle": 37,
+      "heading": {
+       "text": "Half in the sun,",
+       "size": 50,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 16,
+      "textLeft": 31,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 7946,
+      "height": 1415,
+      "words": 88,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Four steps,",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 9447,
+      "height": 650,
+      "words": 39,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Step into",
+       "size": 84,
+       "tag": "h2"
+      },
+      "left": 98,
+      "right": 16,
+      "textLeft": 98,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.border-t",
+      "tag": "footer",
+      "top": 10098,
+      "height": 552,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sun",
+       "size": 200,
+       "tag": "p"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A little more light in every cup.",
+      "size": 66,
+      "top": 146,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Natali N",
+      "side": "right",
+      "px": 12
+     }
+    ],
+    "edges": [
+     {
+      "x": 31,
+      "n": 14
+     },
+     {
+      "x": 79,
+      "n": 3
+     },
+     {
+      "x": 207,
+      "n": 3
+     },
+     {
+      "x": 396,
+      "n": 2
+     },
+     {
+      "x": 194,
+      "n": 1
+     },
+     {
+      "x": 245,
+      "n": 1
+     },
+     {
+      "x": 281,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 25,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.81,
+    0.55,
+    0.77,
+    0.76,
+    0.65,
+    1,
+    0.71,
+    0.84,
+    0.51,
+    0.3,
+    0.77
+   ],
+   "motion": {
+    "elements": 28,
+    "css": 27,
+    "transitions": 1,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 13108,
+     "screens": 15.5,
+     "words": 713,
+     "img": 15,
+     "video": 0,
+     "canvas": 0,
+     "svg": 29,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 14,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmorning-mu",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fglass-shad",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-win",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fevening-ba",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbig-hall.1",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fflat-white",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-lat"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "chars": 33,
+     "lines": 3,
+     "size": 57.6,
+     "vw": 14.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.02,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 146,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A little more light in every cup.",
+     "words": 7,
+     "lines": 3,
+     "size": 57.6,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 19,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "A little more light in every cup.",
+      "words": 7,
+      "chars": 33,
+      "lines": 3,
+      "size": 57.6,
+      "vw": 14.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 146,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe is one long hall built around one long window. We pour coffee, keep 67 chairs comfortable, and let the light rearrange the room a little every hour.",
+      "words": 29,
+      "chars": 157,
+      "lines": 6,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1601,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Four hours, four different rooms.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 41.6,
+      "vw": 10.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2041,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before the first chair",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2808,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "High noon, short shadows",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3476,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The west windows wake up",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4143,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lamps over every table",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4835,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A big room with nowhere to hide from the sun.",
+      "words": 10,
+      "chars": 45,
+      "lines": 2,
+      "size": 41.6,
+      "vw": 10.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5671,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "67",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 5990,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "6",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 5990,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "2",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 5990,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "A short menu, written by the clock.",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 41.6,
+      "vw": 10.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6368,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The House Cup",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 7049,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Golden Hour",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 7662,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Night Shift",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 8081,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Half in the sun, half in the shade.",
+      "words": 8,
+      "chars": 35,
+      "lines": 2,
+      "size": 44.8,
+      "vw": 11.5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 8634,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four steps, none of them rushed.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 41.6,
+      "vw": 10.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9287,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The bean",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9821,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The shot",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10331,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The pour",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10869,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The cup",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 11379,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good coffee Beautiful light Room to stay Light, not glare One more chapter Good coffee Beautiful light Room to stay Light, not glare One more chapter",
+      "words": 26,
+      "chars": 149,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": true,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 11539,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Step into the light.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.02,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 11824,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 26.4,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 12323,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 101.4,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 12930,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 26,
+     "maxLines": 6,
+     "over2Lines": 1,
+     "statements": 5,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 11
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Instrument Sans",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      26,
+      30,
+      34,
+      36,
+      40,
+      42,
+      45,
+      48,
+      54,
+      58,
+      101
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "Instrument Sans",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.3
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 101.4,
+      "vw": 26,
+      "font": "Instrument Serif",
+      "text": "Sun"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 18,
+     "microLabelShare": 0.054,
+     "microSamples": [
+      "Sun Cafe · coffee in a different light",
+      "1 — The first minute",
+      "2 — The rim",
+      "3 — The handle",
+      "The idea",
+      "01"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.05,
+     "smallText": 22
+    },
+    "eyebrows": [
+     {
+      "text": "Sun Cafe · coffee in a different light",
+      "above": "A little more light in every cup.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 104
+     },
+     {
+      "text": "The idea",
+      "above": "Sun Cafe is one long hall built around o",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1535
+     },
+     {
+      "text": "A day at Sun Cafe",
+      "above": "Four hours, four different rooms.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1999
+     },
+     {
+      "text": "07:15 AM",
+      "above": "Before the first chair",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2780
+     },
+     {
+      "text": "12:30 PM",
+      "above": "High noon, short shadows",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 3448
+     },
+     {
+      "text": "05:45 PM",
+      "above": "The west windows wake up",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 4115
+     },
+     {
+      "text": "07:45 PM",
+      "above": "Lamps over every table",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 4807
+     },
+     {
+      "text": "The space",
+      "above": "A big room with nowhere to hide from the",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5629
+     },
+     {
+      "text": "The coffee",
+      "above": "A short menu, written by the clock.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 6326
+     },
+     {
+      "text": "Light, not glare",
+      "above": "Half in the sun, half in the shade.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 8592
+     },
+     {
+      "text": "From bean to cup",
+      "above": "Four steps, none of them rushed.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 9245
+     },
+     {
+      "text": "01",
+      "above": "The bean",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 9797
+     },
+     {
+      "text": "02",
+      "above": "The shot",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 10307
+     },
+     {
+      "text": "03",
+      "above": "The pour",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 10845
+     },
+     {
+      "text": "04",
+      "above": "The cup",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 11355
+     },
+     {
+      "text": "07 · Visit",
+      "above": "Step into the light.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 11782
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 12,
+      "top": 1535
+     },
+     {
+      "text": "02",
+      "size": 12,
+      "top": 1999
+     },
+     {
+      "text": "03",
+      "size": 12,
+      "top": 5629
+     },
+     {
+      "text": "04",
+      "size": 12,
+      "top": 6326
+     },
+     {
+      "text": "05",
+      "size": 12,
+      "top": 8592
+     },
+     {
+      "text": "06",
+      "size": 12,
+      "top": 9245
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 9797
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 10307
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 10845
+     },
+     {
+      "text": "04",
+      "size": 14,
+      "top": 11355
+     }
+    ],
+    "color": {
+     "bodyBg": "#0c0a09",
+     "bodyBgHsl": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#000000",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#1a1511",
+       "top": 2294,
+       "hsl": {
+        "h": 27,
+        "s": 0.21,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#13100d",
+       "top": 5549,
+       "hsl": {
+        "h": 30,
+        "s": 0.19,
+        "l": 0.06
+       }
+      },
+      {
+       "color": "#0c0a09",
+       "top": 12242,
+       "hsl": {
+        "h": 20,
+        "s": 0.14,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#a99b8b",
+       "share": 0.42
+      },
+      {
+       "color": "#f3ecdf",
+       "share": 0.33
+      },
+      {
+       "color": "#f0b44a",
+       "share": 0.11
+      },
+      {
+       "color": "#f3eddf",
+       "share": 0.06
+      },
+      {
+       "color": "#f2ecde",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#f0b44a",
+      "hsl": {
+       "h": 38,
+       "s": 0.85,
+       "l": 0.62
+      },
+      "fg": "#0c0a09"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Explore the space",
+      "See the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 4,
+     "scrims": 0,
+     "gradientSamples": [
+      "header.fixed.inset-x-0 → linear-gradient(oklab(0.146895 0.00270181 0.00313075 / 0.7) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to top, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, oklab(0 0 0 / 0.3) 100%)",
+      "div.absolute.inset-y-0 → linear-gradient(to right in oklab, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)",
+      "div.absolute.inset-0 → linear-gradient(to right, oklab(0 0 0 / 0.85) 0%, oklab(0 0 0 / 0.4) 50%, rgba(0, 0, 0, 0) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 10,
+     "hairlineSamples": [
+      "li.border-t.border-line 350px",
+      "li.border-t.border-line 350px",
+      "li.border-t.border-line 350px",
+      "div.flex.flex-col 350px",
+      "section#day.border-t.border-line 390px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 11,
+     "mediaRadius": 4,
+     "textShadow": 12,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.28
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 73,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument sans",
+     "instrument serif"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 13108,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.container-x.relative",
+      "tag": "div",
+      "top": 0,
+      "height": 1314,
+      "words": 75,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "A little more",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.container-x.relative",
+      "tag": "div",
+      "top": 1314,
+      "height": 125,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 80,
+      "textLeft": 20,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 1439,
+      "height": 464,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sun Cafe is one long hall built around one long wi",
+       "size": 34,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 55,
+      "textLeft": 20,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#day.border-t.border-line",
+      "tag": "section",
+      "top": 1902,
+      "height": 3158,
+      "words": 154,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Four hours,",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 5060,
+      "height": 1170,
+      "words": 57,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 12,
+      "textLeft": 20,
+      "textRight": 12,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 6230,
+      "height": 2159,
+      "words": 93,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "A short menu,",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 8389,
+      "height": 760,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Half in the sun,",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 16,
+      "textLeft": 20,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.py-24.md:py-36",
+      "tag": "section",
+      "top": 9149,
+      "height": 2391,
+      "words": 48,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Four steps,",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 11626,
+      "height": 616,
+      "words": 3,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 222,
+      "right": 16,
+      "textLeft": 222,
+      "textRight": 16,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.border-t",
+      "tag": "footer",
+      "top": 12242,
+      "height": 866,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sun",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 28,
+      "textLeft": 20,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 10424,
+      "height": 1132
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A little more light in every cup.",
+      "size": 58,
+      "top": 146,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "Natali N",
+      "side": "right",
+      "px": 12
+     }
+    ],
+    "edges": [
+     {
+      "x": 20,
+      "n": 25
+     }
+    ],
+    "leftBlocks": 25,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "3 headline(s) wrap past two lines at 1440px: \"A little more light in every cup.\" → 3 lines (7 words, 123.8px); \"Sun Cafe is one long hall built around one long \" → 4 lines (29 words, 66.2px, a paragraph set above 36px); \"A big room with nowhere to hide from the sun.\" → 3 lines (10 words, 79.2px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "9 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "15 eyebrow/kicker label(s) above headings: \"Sun Cafe · coffee in a different light\" above \"A little more light in every cup.\"; \"A day at Sun Cafe\" above \"Four hours, four different rooms.\"; \"07:15 AM\" above \"Before the first chair\"; \"05:45 PM\" above \"The west windows wake up\"; \"12:30 PM\" above \"High noon, short shadows\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01 — The first minute\", \"02 — The rim\", \"03 — The handle\", \"01\", \"02\", \"03\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "18 tiny uppercase letter-spaced labels (e.g. \"Sun Cafe · coffee in a different light\", \"01 — The first minute\", \"02 — The rim\", \"03 — The handle\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "4 gradient fill(s): header.fixed.inset-x-0 → linear-gradient(oklab(0.146895 0.00270181 0.00313075 / 0.7) 0%, rgba(0, 0, 0, 0) 100%) | div.absolute.inset-0 → linear-gradient(to top, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 50%, oklab(0 0 0 / 0.3) 100%) | div.absolute.inset-y-0 → linear-gradient(to right in oklab, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "text-shadow",
+   "width": 1440,
+   "message": "12 text-shadow(s).",
+   "fix": "Remove; fix legibility with a scrim or a different crop.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "7 thin rule(s)/divider line(s): div.flex.flex-col 1344px | section#day.border-t.border-line 1440px | section.relative.isolate 1440px | dl.mt-10.grid 544px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (text #f3ecdf, text #f3eddf, text #f2ecde).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "19 different font sizes (10, 11, 12, 14, 15, 16, 18, 20, 26, 30, 48, 66, 72, 79, 86, 94, 124, 158, 374).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "23 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "2 headline(s) wrap past two lines at 768px: \"A little more light in every cup.\" → 3 lines (7 words, 66px); \"Sun Cafe is one long hall built around one long \" → 3 lines (29 words, 35.3px, a paragraph set above 32px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 768,
+   "message": "1 text block(s) sit within 16px of the screen edge: \"Natali N\" (12px from the right)",
+   "fix": "Keep text inside the page margin (16–32px or more). Only display type deliberately bled past the edge may touch it."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "2 headline(s) wrap past two lines at 390px: \"A little more light in every cup.\" → 3 lines (7 words, 57.6px); \"Sun Cafe is one long hall built around one long \" → 6 lines (29 words, 33.6px, a paragraph set above 24px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "blank-gap",
+   "width": 390,
+   "message": "1 stretch(es) of the page hold nothing at all: 1132px at 10424px (the screen is 844px tall).",
+   "fix": "Close the gap: a section gap is 120–240px on desktop and 72–112px on a phone. Look for a min-height: 100vh on a short section, an empty grid row, a hidden element still holding its space, or a reveal that never fired. A deliberate rest is a placed picture or colour field, not nothing."
+  },
+  {
+   "level": "WARN",
+   "id": "edge-text",
+   "width": 390,
+   "message": "1 text block(s) sit 12–15px from the phone's edge: \"Natali N\" (12px)",
+   "fix": "The page margin is 16–20px on a phone; the header and the corner labels sit on it too."
+  },
+  {
+   "level": "FAIL",
+   "id": "reduced-hidden",
+   "width": 1440,
+   "message": "With reduced motion requested, 2 text block(s) on the first screen stay invisible: \"The handle\", \"Pressed by hand, with a rest for your th\"",
+   "fix": "Put every hidden starting state inside @media (prefers-reduced-motion: no-preference); the reduced page is the finished page (references/motion.md §8)."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\desktop-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\desktop-page-02.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\tablet-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\mobile-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\before\\home\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

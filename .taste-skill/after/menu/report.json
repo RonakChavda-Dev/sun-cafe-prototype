@@ -1,0 +1,1606 @@
+{
+ "url": "http://localhost:3211/menu",
+ "at": "2026-10-21T06:13:45.944Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.54,
+    0.25,
+    0.26,
+    0.18,
+    0.6,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 28,
+    "css": 5,
+    "transitions": 23,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5814,
+     "screens": 6.5,
+     "words": 619,
+     "img": 22,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-on-bea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fflat-white",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Ficed-pour.",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmatcha.0zy",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcroissants",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "chars": 18,
+     "lines": 2,
+     "size": 108,
+     "vw": 7.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.48,
+     "top": 219,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "lines": 2,
+     "size": 108,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Sorted by daylight",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 219,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Espresso bar",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 992,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Slow bar",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 1759,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cold",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 2322,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Not coffee",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 2885,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From the oven",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 3419,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask the bar what it would order",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 4336,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      18,
+      19,
+      22,
+      26,
+      50,
+      64,
+      108
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "text": "Sorted by daylight"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": -11,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.63
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.36
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      },
+      {
+       "color": "#f5c518",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#f5c518",
+      "hsl": {
+       "h": 47,
+       "s": 0.92,
+       "l": 0.53
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "Read the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 7,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 7,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.49
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5814,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 828,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sorted by daylight",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 824,
+      "textLeft": 32,
+      "textRight": 824,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.pb-[var(--section)]",
+      "tag": "section",
+      "top": 828,
+      "height": 3279,
+      "words": 465,
+      "media": 5,
+      "middle": 64,
+      "heading": {
+       "text": "Espresso bar",
+       "size": 50,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 4107,
+      "height": 787,
+      "words": 37,
+      "media": 1,
+      "middle": 253,
+      "heading": {
+       "text": "Ask the bar what it would order",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 140,
+      "textLeft": 846,
+      "textRight": 140,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 4895,
+      "height": 919,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sorted by daylight",
+      "size": 108,
+      "top": 219,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 846,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.09,
+    "voidBox": {
+     "x": 240,
+     "y": 600,
+     "w": 480,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.53,
+    0.49,
+    0.27,
+    0.25,
+    0.64,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 5,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6697,
+     "screens": 6.5,
+     "words": 615,
+     "img": 22,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-on-bea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "chars": 18,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.63,
+     "top": 174,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Sorted by daylight",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 174,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Espresso bar",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 39.2,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 1467,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Slow bar",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 39.2,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 2316,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cold",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 39.2,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 2988,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Not coffee",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 39.2,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 3551,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From the oven",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 39.2,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3937,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask the bar what it would order",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 5593,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      22,
+      23,
+      39,
+      45,
+      65
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17.9,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "text": "Sorted by daylight"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 578,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.63
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.35
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f5c518",
+      "hsl": {
+       "h": 47,
+       "s": 0.92,
+       "l": 0.53
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "Read the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.44
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque",
+     "bricolage grotesque fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6697,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 1303,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sorted by daylight",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 233,
+      "textLeft": 17,
+      "textRight": 233,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.pb-[var(--section)]",
+      "tag": "section",
+      "top": 1303,
+      "height": 3426,
+      "words": 465,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Espresso bar",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 4728,
+      "height": 1235,
+      "words": 37,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 326,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 5963,
+      "height": 734,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sorted by daylight",
+      "size": 65,
+      "top": 174,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.55,
+    0.4,
+    0.47,
+    0.39,
+    0.38,
+    0.48,
+    0.93,
+    1
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 5,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6733,
+     "screens": 8,
+     "words": 612,
+     "img": 22,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-on-bea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "chars": 18,
+     "lines": 2,
+     "size": 54.4,
+     "vw": 13.9,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 156,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sorted by daylight",
+     "words": 3,
+     "lines": 2,
+     "size": 54.4,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 18,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Sorted by daylight",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 156,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Espresso bar",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 1164,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Slow bar",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2279,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cold",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 3023,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Not coffee",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 3715,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "From the oven",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 4087,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ask the bar what it would order",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 5589,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      18,
+      20,
+      22,
+      32,
+      33,
+      54
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "text": "Sorted by daylight"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 553,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.63
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.36
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f5c518",
+      "hsl": {
+       "h": 47,
+       "s": 0.92,
+       "l": 0.53
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Read the menu"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 2,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.34
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6733,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 952,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sorted by daylight",
+       "size": 54,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 29,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.pb-[var(--section)]",
+      "tag": "section",
+      "top": 952,
+      "height": 4159,
+      "words": 465,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Espresso bar",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 5111,
+      "height": 809,
+      "words": 37,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Ask the bar what it would order",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 5920,
+      "height": 813,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Sorted by daylight",
+      "size": 54,
+      "top": 156,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\desktop-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\tablet-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\menu\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

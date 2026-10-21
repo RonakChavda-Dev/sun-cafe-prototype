@@ -1,0 +1,2092 @@
+{
+ "url": "http://localhost:3211/about",
+ "at": "2026-10-21T06:15:00.618Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.55,
+    0.4,
+    0.29,
+    0.34,
+    0.63,
+    0.6,
+    0.92,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 5,
+    "transitions": 22,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6752,
+     "screens": 7.5,
+     "words": 484,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 9,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmilk-pour.",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fsun-cup.0i",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fwindow-sea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-saucer",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Flatte-leaf",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbeans-macr",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-d",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Ffilter-top"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "chars": 19,
+     "lines": 2,
+     "size": 108,
+     "vw": 7.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.48,
+     "top": 219,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "lines": 2,
+     "size": 108,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Coffee and the room",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 219,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The hall came first",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 941,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four things we keep coming back to",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 1225,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Light, not glare",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 1597,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Room to linger",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2269,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Details that matter",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 2909,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee without the ceremony",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 3552,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "From bean to cup",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 4178,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unwritten rules",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 5013,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "See how the light moves through it",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 5586,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      19,
+      22,
+      26,
+      64,
+      108
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "text": "Coffee and the room"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": -11,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#f5c518",
+       "top": 5467,
+       "hsl": {
+        "h": 47,
+        "s": 0.92,
+        "l": 0.53
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.65
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.29
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.05
+      },
+      {
+       "color": "#f5c518",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#e6e6e3",
+      "hsl": {
+       "h": 60,
+       "s": 0.06,
+       "l": 0.9
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "Read how it started"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 9,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 9,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.5
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6752,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 828,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Coffee and the room",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 816,
+      "textLeft": 32,
+      "textRight": 816,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 828,
+      "height": 397,
+      "words": 71,
+      "media": 0,
+      "middle": 212,
+      "heading": {
+       "text": "The hall came first",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 45,
+      "textLeft": 32,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.grid.gap-y-6",
+      "tag": "div",
+      "top": 1225,
+      "height": 128,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "ul.mt-16.space-y-24",
+      "tag": "ul",
+      "top": 1417,
+      "height": 2535,
+      "words": 98,
+      "media": 4,
+      "middle": 234,
+      "heading": {
+       "text": "Light, not glare",
+       "size": 64,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 148,
+      "textRight": 153,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 4065,
+      "height": 835,
+      "words": 79,
+      "media": 4,
+      "middle": 20,
+      "heading": {
+       "text": "From bean to cup",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 4900,
+      "height": 567,
+      "words": 84,
+      "media": 0,
+      "middle": 313,
+      "heading": {
+       "text": "Unwritten rules",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 46,
+      "textLeft": 32,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-accent.text-accent-ink",
+      "tag": "section",
+      "top": 5467,
+      "height": 367,
+      "words": 25,
+      "media": 0,
+      "middle": 357,
+      "heading": {
+       "text": "See how the light moves through it",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 238,
+      "textLeft": 32,
+      "textRight": 238,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 5833,
+      "height": 919,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Coffee and the room",
+      "size": 108,
+      "top": 219,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 7
+     },
+     {
+      "x": 730,
+      "n": 1
+     },
+     {
+      "x": 846,
+      "n": 1
+     },
+     {
+      "x": 963,
+      "n": 1
+     },
+     {
+      "x": 1079,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 11,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.11,
+    "voidBox": {
+     "x": 240,
+     "y": 600,
+     "w": 480,
+     "h": 300
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.56,
+    0.51,
+    0.29,
+    0.8,
+    0.8,
+    0.91,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 5,
+    "transitions": 22,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6277,
+     "screens": 6.1,
+     "words": 480,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 9,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmilk-pour.",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fsun-cup.0i",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fwindow-sea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-saucer",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Flatte-leaf",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbeans-macr",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-d",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Ffilter-top"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "chars": 19,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.63,
+     "top": 174,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Coffee and the room",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 174,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The hall came first",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 1385,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four things we keep coming back to",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.68,
+      "top": 1687,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Light, not glare",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 1890,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Room to linger",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2298,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Details that matter",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 2684,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee without the ceremony",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 3065,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "From bean to cup",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.68,
+      "top": 3491,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unwritten rules",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 4847,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "See how the light moves through it",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5346,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      22,
+      23,
+      45,
+      65
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17.9,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "text": "Coffee and the room"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 578,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.66
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.28
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.05
+      },
+      {
+       "color": "#f5c518",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#e6e6e3",
+      "hsl": {
+       "h": 60,
+       "s": 0.06,
+       "l": 0.9
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "Read how it started"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 9,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 9,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.44
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6277,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 1303,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Coffee and the room",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 226,
+      "textLeft": 17,
+      "textRight": 226,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 1303,
+      "height": 385,
+      "words": 71,
+      "media": 0,
+      "middle": 14,
+      "heading": {
+       "text": "The hall came first",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 33,
+      "textLeft": 17,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.pb-[var(--section)]",
+      "tag": "section",
+      "top": 1687,
+      "height": 1721,
+      "words": 98,
+      "media": 4,
+      "middle": 81,
+      "heading": {
+       "text": "Light, not glare",
+       "size": 45,
+       "tag": "h3"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 79,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 3408,
+      "height": 1356,
+      "words": 79,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "From bean to cup",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 4764,
+      "height": 476,
+      "words": 84,
+      "media": 0,
+      "middle": 43,
+      "heading": {
+       "text": "Unwritten rules",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 18,
+      "textLeft": 17,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-accent.text-accent-ink",
+      "tag": "section",
+      "top": 5240,
+      "height": 303,
+      "words": 25,
+      "media": 0,
+      "middle": 101,
+      "heading": {
+       "text": "See how the light moves through it",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 32,
+      "textLeft": 17,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 5543,
+      "height": 734,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Coffee and the room",
+      "size": 65,
+      "top": 174,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 9
+     },
+     {
+      "x": 390,
+      "n": 1
+     },
+     {
+      "x": 452,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 11,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.6,
+    0.62,
+    0.58,
+    0.51,
+    0.64,
+    1,
+    1,
+    0.53,
+    0.89,
+    1
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 5,
+    "transitions": 21,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8074,
+     "screens": 9.6,
+     "words": 477,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 9,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fmilk-pour.",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fsun-cup.0i",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fwindow-sea",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-saucer",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Flatte-leaf",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbeans-macr",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fespresso-d",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Ffilter-top"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "chars": 19,
+     "lines": 2,
+     "size": 54.4,
+     "vw": 13.9,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 156,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Coffee and the room",
+     "words": 4,
+     "lines": 2,
+     "size": 54.4,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 18,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee and the room",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 156,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The hall came first",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1024,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Four things we keep coming back to",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1423,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Light, not glare",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 1929,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Room to linger",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 2560,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Details that matter",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 3165,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Coffee without the ceremony",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 3803,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "From bean to cup",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4138,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Unwritten rules",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.72,
+      "top": 6264,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "See how the light moves through it",
+      "words": 7,
+      "chars": 34,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6948,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      20,
+      22,
+      33,
+      54
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "text": "Coffee and the room"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 553,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#f5c518",
+       "top": 6876,
+       "hsl": {
+        "h": 47,
+        "s": 0.92,
+        "l": 0.53
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.66
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.28
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.05
+      },
+      {
+       "color": "#f5c518",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f5c518",
+      "hsl": {
+       "h": 47,
+       "s": 0.92,
+       "l": 0.53
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Read how it started"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 9,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 9,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.35
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque",
+     "bricolage grotesque fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8074,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 0,
+      "height": 952,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Coffee and the room",
+       "size": 54,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 19,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 952,
+      "height": 471,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The hall came first",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 22,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.pb-[var(--section)]",
+      "tag": "section",
+      "top": 1423,
+      "height": 2619,
+      "words": 98,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Light, not glare",
+       "size": 33,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-surface",
+      "tag": "section",
+      "top": 4042,
+      "height": 2150,
+      "words": 75,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "The bean",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 47,
+      "textLeft": 16,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.frame.section",
+      "tag": "section",
+      "top": 6192,
+      "height": 683,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Unwritten rules",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.bg-accent.text-accent-ink",
+      "tag": "section",
+      "top": 6876,
+      "height": 386,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "See how the light moves through it",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 55,
+      "textLeft": 16,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 7261,
+      "height": 813,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Coffee and the room",
+      "size": 54,
+      "top": 156,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\desktop-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\tablet-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\mobile-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\about\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

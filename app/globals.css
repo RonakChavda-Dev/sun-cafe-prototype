@@ -1,26 +1,358 @@
 @import "tailwindcss";
 
+/*
+ * Sun Cafe: warm espresso dark, cream ink, one golden accent.
+ * Photographs carry the colour; the interface frames them and warms them with light.
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #120d0a;
+  --surface: #1d1611;
+  --surface-2: #2a2019;
+  --ink: #f6ecdc;
+  --muted: #cbb9a2;
+  --accent: #f2b33d;
+  --accent-strong: #ffc65a;
+  --accent-ink: #1a110b;
+  --ember: #c8783e;
+  --line: rgb(246 236 220 / 0.1);
+
+  --step-small: clamp(0.8125rem, 0.79rem + 0.1vw, 0.875rem);
+  --step-body: clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem);
+  --step-lead: clamp(1.25rem, 1.1rem + 0.7vw, 1.625rem);
+  --step-head: clamp(2.5rem, 1.6rem + 3.6vw, 5rem);
+  --step-display: clamp(3.6rem, 1.4rem + 7.2vw, 8.25rem);
+
+  --margin: clamp(1rem, 2.6vw, 2.5rem);
+  --gutter: clamp(0.75rem, 1.6vw, 1.75rem);
+  --section: clamp(4.5rem, 3rem + 5vw, 8.5rem);
+  --header-h: 4.75rem;
+  --radius: clamp(1rem, 0.6rem + 1vw, 1.75rem);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-soft: cubic-bezier(0.33, 1, 0.68, 1);
+  --t-press: 140ms;
+  --t-hover: 200ms;
+
+  color-scheme: dark;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-ember: var(--ember);
+  --color-line: var(--line);
+
+  --font-sans: var(--font-instrument-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-instrument-serif), ui-serif, Georgia, serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  overflow-x: clip;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: var(--step-body);
+  line-height: 1.55;
+  overflow-x: clip;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+@layer components {
+  .frame {
+    width: 100%;
+    max-width: 104rem;
+    margin-inline: auto;
+    padding-inline: var(--margin);
+  }
+
+  .section {
+    padding-block: var(--section);
+  }
+
+  .display {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: var(--step-display);
+    line-height: 0.92;
+    letter-spacing: -0.025em;
+    text-wrap: balance;
+  }
+
+  .head {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: var(--step-head);
+    line-height: 0.98;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  .display em,
+  .head em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  .lead {
+    font-size: var(--step-lead);
+    line-height: 1.4;
+    letter-spacing: -0.005em;
+  }
+
+  .small {
+    font-size: var(--step-small);
+    line-height: 1.45;
+  }
+
+  /* A photograph in its frame: the frame takes the photograph's own proportions. */
+  .photo {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius);
+    background: var(--surface);
+    isolation: isolate;
+  }
+  .photo img {
+    transition: transform 1200ms var(--ease-soft);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .group:hover .photo img,
+    a.photo:hover img {
+      transform: scale(1.04);
+    }
+  }
+
+  /* Warm light pooling behind a picture or a heading, like low sun on a wall. */
+  .glow {
+    position: absolute;
+    pointer-events: none;
+    border-radius: 9999px;
+    background: radial-gradient(closest-side, rgb(242 179 61 / 0.32), rgb(200 120 62 / 0.12) 55%, transparent);
+    filter: blur(10px);
+  }
+
+  .dot {
+    display: inline-block;
+    width: 0.55em;
+    height: 0.55em;
+    border-radius: 9999px;
+    background: var(--accent);
+    flex-shrink: 0;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    min-height: 3.25rem;
+    padding: 0 1.6rem;
+    border-radius: 9999px;
+    font-weight: 600;
+    font-size: var(--step-body);
+    line-height: 1;
+    white-space: nowrap;
+    transition:
+      transform var(--t-press) var(--ease-out),
+      background-color var(--t-hover) ease,
+      color var(--t-hover) ease,
+      box-shadow var(--t-hover) ease;
+  }
+  .btn:active {
+    transform: scale(0.97);
+  }
+  .btn-sun {
+    background: var(--accent);
+    color: var(--accent-ink);
+    box-shadow: 0 10px 30px -12px rgb(242 179 61 / 0.6);
+  }
+  .btn-plain {
+    background: var(--surface-2);
+    color: var(--ink);
+  }
+  .btn-ink {
+    background: var(--ink);
+    color: var(--accent-ink);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .btn-sun:hover {
+      background: var(--accent-strong);
+      box-shadow: 0 14px 36px -12px rgb(242 179 61 / 0.75);
+    }
+    .btn-plain:hover,
+    .btn-ink:hover {
+      background: var(--accent);
+      color: var(--accent-ink);
+    }
+  }
+
+  .link {
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-underline-offset: 0.22em;
+    text-decoration-thickness: 0.07em;
+    transition: text-decoration-color var(--t-hover) ease, color var(--t-hover) ease;
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .link:hover {
+      text-decoration-color: currentColor;
+    }
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-height: 2.75rem;
+    padding: 0 1.1rem;
+    border-radius: 9999px;
+    background: var(--surface-2);
+    color: var(--ink);
+    font-weight: 500;
+    font-size: var(--step-small);
+    transition: background-color var(--t-hover) ease, color var(--t-hover) ease, transform var(--t-press) var(--ease-out);
+  }
+  .chip:active {
+    transform: scale(0.97);
+  }
+  .chip[aria-pressed="true"],
+  .chip:has(input:checked) {
+    background: var(--accent);
+    color: var(--accent-ink);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .chip:hover {
+      background: #3a2c22;
+    }
+    .chip[aria-pressed="true"]:hover,
+    .chip:has(input:checked):hover {
+      background: var(--accent-strong);
+    }
+  }
+}
+
+/* ---------- Motion ---------- */
+
+@media (prefers-reduced-motion: no-preference) {
+  .rise {
+    animation: rise 900ms var(--ease-expo) both;
+  }
+  .settle img {
+    animation: settle 1800ms var(--ease-expo) both;
+  }
+  .js [data-reveal] {
+    opacity: 0;
+    transform: translateY(24px);
+    transition:
+      opacity 700ms var(--ease-out) var(--d, 0ms),
+      transform 900ms var(--ease-out) var(--d, 0ms);
+  }
+  .js [data-reveal].is-in {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+}
+@keyframes settle {
+  from {
+    transform: scale(1.08);
+  }
+}
+
+/* ---------- Range input ---------- */
+
+.time-range {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 2.75rem;
+  background: transparent;
+  cursor: pointer;
+}
+.time-range::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 6px;
+  background: linear-gradient(to right, var(--accent) 0 var(--progress), var(--surface-2) var(--progress) 100%); /* taste-skill-ignore: form control fill */
+}
+.time-range::-moz-range-track {
+  height: 6px;
+  border-radius: 6px;
+  background: var(--surface-2);
+}
+.time-range::-moz-range-progress {
+  height: 6px;
+  border-radius: 6px;
+  background: var(--accent);
+}
+.time-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin-top: calc(3px - 0.875rem);
+  border-radius: 999px;
+  background: var(--accent);
+  border: 4px solid var(--bg);
+}
+.time-range::-moz-range-thumb {
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 999px;
+  background: var(--accent);
+  border: 4px solid var(--bg);
+}
+.time-range:focus-visible {
+  outline: none;
+}
+.time-range:focus-visible::-webkit-slider-thumb {
+  outline: 3px solid var(--ink);
+  outline-offset: 2px;
+}
+.time-range:focus-visible::-moz-range-thumb {
+  outline: 3px solid var(--ink);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

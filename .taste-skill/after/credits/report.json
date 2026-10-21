@@ -1,0 +1,1308 @@
+{
+ "url": "http://localhost:3211/credits",
+ "at": "2026-10-21T06:15:58.297Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.39,
+    0.3,
+    0.31,
+    0.23,
+    0.29,
+    0.87,
+    1
+   ],
+   "motion": {
+    "elements": 46,
+    "css": 6,
+    "transitions": 40,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5546,
+     "screens": 6.2,
+     "words": 426,
+     "img": 43,
+     "video": 0,
+     "canvas": 0,
+     "svg": 56,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 43,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-lat",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fzone-loung",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fsun-cup.0i",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-saucer",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fglass-shad",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fevening-ba"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "chars": 21,
+     "lines": 2,
+     "size": 108,
+     "vw": 7.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 203,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "lines": 2,
+     "size": 108,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Who made the pictures",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 203,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Photography",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 819,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Film",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3572,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "3D models and textures",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 3858,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      19,
+      22,
+      26,
+      64,
+      108
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 108,
+      "vw": 7.5,
+      "font": "Bricolage Grotesque",
+      "text": "Who made the pictures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 4627,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.52
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.47
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#e6e6e3",
+      "hsl": {
+       "h": 60,
+       "s": 0.06,
+       "l": 0.9
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "See every photographer"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 3,
+     "boxRadius": 99,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 9999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5546,
+    "margins": {
+     "left": 32,
+     "right": 52
+    },
+    "sections": [
+     {
+      "sel": "main#main",
+      "tag": "main",
+      "top": 0,
+      "height": 4627,
+      "words": 357,
+      "media": 43,
+      "middle": 0,
+      "heading": {
+       "text": "Who made the pictures",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 4627,
+      "height": 919,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 4464,
+      "height": 272
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Who made the pictures",
+      "size": 108,
+      "top": 203,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 6
+     },
+     {
+      "x": 740,
+      "n": 2
+     },
+     {
+      "x": 80,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.12,
+    "voidBox": {
+     "x": 420,
+     "y": 720,
+     "w": 840,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.45,
+    0.35,
+    0.42,
+    0.36,
+    0.26,
+    0.86,
+    0.93
+   ],
+   "motion": {
+    "elements": 43,
+    "css": 3,
+    "transitions": 40,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6218,
+     "screens": 6.1,
+     "words": 422,
+     "img": 43,
+     "video": 0,
+     "canvas": 0,
+     "svg": 56,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 40,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-steam",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fsun-cup.0i",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fcup-saucer",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fglass-shad",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fevening-ba",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fhall-windo",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fbar-machin",
+      "image?url=%2F_next%2Fstatic%2Fmedia%2Fgolden-roo"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "chars": 21,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.63,
+     "top": 174,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Who made the pictures",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 174,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Photography",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 621,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Film",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4429,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "3D models and textures",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.6,
+      "top": 4661,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      22,
+      23,
+      45,
+      65
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17.9,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "text": "Who made the pictures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 5484,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.52
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.47
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#e6e6e3",
+      "hsl": {
+       "h": 60,
+       "s": 0.06,
+       "l": 0.9
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See the hall",
+      "See every photographer"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6218,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "main#main",
+      "tag": "main",
+      "top": 0,
+      "height": 5484,
+      "words": 357,
+      "media": 40,
+      "middle": 0,
+      "heading": {
+       "text": "Who made the pictures",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 5484,
+      "height": 734,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Who made the pictures",
+      "size": 65,
+      "top": 174,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 6
+     },
+     {
+      "x": 404,
+      "n": 2
+     },
+     {
+      "x": 65,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.46,
+    0.32,
+    0.3,
+    0.34,
+    0.35,
+    0.29,
+    0.31,
+    0.42,
+    0.5,
+    0.86,
+    0.93
+   ],
+   "motion": {
+    "elements": 43,
+    "css": 3,
+    "transitions": 40,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8562,
+     "screens": 10.1,
+     "words": 419,
+     "img": 43,
+     "video": 0,
+     "canvas": 0,
+     "svg": 56,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "chars": 21,
+     "lines": 2,
+     "size": 54.4,
+     "vw": 13.9,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 156,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Who made the pictures",
+     "words": 4,
+     "lines": 2,
+     "size": 54.4,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Sun Cafe",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 18,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Who made the pictures",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 156,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Photography",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 612,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Film",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6159,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "3D models and textures",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 6441,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      20,
+      22,
+      33,
+      54
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.8
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 54.4,
+      "vw": 13.9,
+      "font": "Bricolage Grotesque",
+      "text": "Who made the pictures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f0c0a",
+     "bodyBgHsl": {
+      "h": 24,
+      "s": 0.2,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#1c1815",
+       "top": 7392,
+       "hsl": {
+        "h": 26,
+        "s": 0.14,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#aaa39a",
+       "share": 0.52
+      },
+      {
+       "color": "#e6e6e3",
+       "share": 0.47
+      },
+      {
+       "color": "#0f0c0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f5c518",
+      "hsl": {
+       "h": 47,
+       "s": 0.92,
+       "l": 0.53
+      },
+      "fg": "#0f0c0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "See every photographer"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8562,
+    "margins": {
+     "left": 16,
+     "right": 18
+    },
+    "sections": [
+     {
+      "sel": "main#main",
+      "tag": "main",
+      "top": 0,
+      "height": 7749,
+      "words": 357,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Who made the pictures",
+       "size": 54,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-surface.pt-[var(--section)]",
+      "tag": "footer",
+      "top": 7749,
+      "height": 813,
+      "words": 60,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Who made the pictures",
+      "size": 54,
+      "top": 156,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 6
+     },
+     {
+      "x": 48,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 32px on the left, 52px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\desktop-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\tablet-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\mobile-page-01.jpg",
+    "D:\\Ronak\\Website Projects\\Imaginary Cafe Website (Portfolio)\\.taste-skill\\after\\credits\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
