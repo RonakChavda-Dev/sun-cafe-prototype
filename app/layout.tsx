@@ -19,7 +19,11 @@ const serif = Instrument_Serif({
 const description =
   "Sun Cafe is a fictional cafe concept: thoughtful coffee in a large, light-filled hall whose light changes through the day. A design portfolio project.";
 
+// Link previews need absolute image URLs: set SITE_URL to the deployed address when building.
+const siteUrl = process.env.SITE_URL ?? "http://localhost:3000";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: {
     default: "Sun Cafe — Coffee in a Different Light",
     template: "%s · Sun Cafe",
