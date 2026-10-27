@@ -104,7 +104,7 @@ Set the `SITE_URL` environment variable to the deployed address when you build, 
 SITE_URL=https://your-domain.com npm run build
 ```
 
-On most hosts you can add `SITE_URL` as a build environment variable in the project settings. If it isn't set, it defaults to `http://localhost:3000`.
+On most hosts you can add `SITE_URL` as a build environment variable in the project settings. If it isn't set, it defaults to `https://sun-cafe-prototype.pages.dev`.
 
 The repo also includes [OpenNext](https://opennext.js.org/cloudflare) and Wrangler scripts (`npm run preview`, `npm run deploy`, `npm run upload`) for deploying to Cloudflare Workers.
 

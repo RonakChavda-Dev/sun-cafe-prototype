@@ -17,10 +17,10 @@ const serif = Instrument_Serif({
 });
 
 const description =
-  "Sun Cafe is a fictional cafe concept: thoughtful coffee in a large, light-filled hall whose light changes through the day. A design portfolio project.";
+  "A fictional cafe concept: thoughtful coffee in a light-filled hall that changes through the day. A design portfolio project.";
 
-// Link previews need absolute image URLs: set SITE_URL to the deployed address when building.
-const siteUrl = process.env.SITE_URL ?? "http://localhost:3000";
+// Link previews need absolute image URLs, so this defaults to the deployed address; SITE_URL overrides it.
+const siteUrl = process.env.SITE_URL ?? "https://sun-cafe-prototype.pages.dev";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
